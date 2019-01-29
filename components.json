@@ -1,0 +1,4 @@
+{
+    "select": "./packages/select/index.js",
+    "upload": "./packages/upload/index.js"
+}
